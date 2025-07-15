@@ -29,3 +29,6 @@ menu1.add_command(label="Cerrar", command=edito.close_window)
 #configuracion para que que se tome barra_menu como la barra de menú principal
 root.config(menu=barra_menu)
 root.mainloop()
+
+
+#Fin

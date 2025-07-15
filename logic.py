@@ -37,3 +37,6 @@ class SimpleTextEditor():
             with open(filename, 'r') as file:
                 self.text_area.insert("1.0", file.read())
             self.current_open_file = filename
+
+
+#Fin de la clase SimpleTextEditor
